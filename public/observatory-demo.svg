@@ -1,0 +1,50 @@
+<svg width="1440" height="820" viewBox="0 0 1440 820" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1440" height="820" fill="#030303"/>
+  <path d="M0 0H1440V820H0V0Z" fill="url(#wash)"/>
+  <g opacity="0.22">
+    <path d="M0 90H1440M0 180H1440M0 270H1440M0 360H1440M0 450H1440M0 540H1440M0 630H1440M0 720H1440" stroke="white"/>
+    <path d="M90 0V820M180 0V820M270 0V820M360 0V820M450 0V820M540 0V820M630 0V820M720 0V820M810 0V820M900 0V820M990 0V820M1080 0V820M1170 0V820M1260 0V820M1350 0V820" stroke="white"/>
+  </g>
+  <text x="76" y="98" fill="white" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="62" font-weight="650">What happens when AI agents become economic actors?</text>
+  <text x="80" y="146" fill="#A7F3D0" font-family="Cascadia Mono, Consolas, monospace" font-size="18" letter-spacing="3">AGENTIC ECONOMY OBSERVATORY / OLLAMA LOCAL MODELS</text>
+  <rect x="80" y="204" width="430" height="418" rx="8" fill="black" fill-opacity="0.55" stroke="white" stroke-opacity="0.14"/>
+  <text x="112" y="252" fill="#E5E7EB" font-family="Cascadia Mono, Consolas, monospace" font-size="21">Synthetic research collective</text>
+  <text x="112" y="300" fill="#9CA3AF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18">Autonomous research agents pool models,</text>
+  <text x="112" y="329" fill="#9CA3AF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18">datasets, citations, and compute.</text>
+  <rect x="112" y="382" width="328" height="14" rx="7" fill="#164E63"/>
+  <rect x="112" y="382" width="244" height="14" rx="7" fill="#67E8F9"/>
+  <text x="112" y="438" fill="#FDE68A" font-family="Cascadia Mono, Consolas, monospace" font-size="18">SIGNAL: CHAOTIC</text>
+  <rect x="112" y="492" width="244" height="58" rx="7" fill="#F8FAFC"/>
+  <text x="141" y="529" fill="black" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="19" font-weight="700">Observe Emergence</text>
+  <g stroke-linecap="round">
+    <path d="M752 318C840 232 986 226 1078 306" stroke="#67E8F9" stroke-width="3" stroke-opacity="0.75"/>
+    <path d="M758 477C858 570 1016 566 1116 468" stroke="#34D399" stroke-width="4" stroke-opacity="0.7"/>
+    <path d="M838 302C830 420 914 498 1040 510" stroke="#FB7185" stroke-width="3" stroke-opacity="0.65"/>
+    <path d="M1052 310C976 388 984 478 1078 558" stroke="#FBBF24" stroke-width="3" stroke-opacity="0.7"/>
+    <path d="M690 416C798 372 916 366 1032 414" stroke="#5EEAD4" stroke-width="3" stroke-opacity="0.65"/>
+  </g>
+  <g>
+    <rect x="650" y="372" width="178" height="76" rx="8" fill="#06272B" stroke="#67E8F9" stroke-opacity="0.7"/>
+    <text x="676" y="402" fill="#A5F3FC" font-family="Cascadia Mono, Consolas, monospace" font-size="13">AGENT</text>
+    <text x="676" y="428" fill="white" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="19" font-weight="650">paper miners</text>
+    <rect x="918" y="254" width="194" height="76" rx="8" fill="#2A1F08" stroke="#FBBF24" stroke-opacity="0.7"/>
+    <text x="944" y="284" fill="#FDE68A" font-family="Cascadia Mono, Consolas, monospace" font-size="13">MARKET</text>
+    <text x="944" y="310" fill="white" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="19" font-weight="650">dataset auction</text>
+    <rect x="1010" y="520" width="214" height="76" rx="8" fill="#2C0911" stroke="#FB7185" stroke-opacity="0.7"/>
+    <text x="1036" y="550" fill="#FDA4AF" font-family="Cascadia Mono, Consolas, monospace" font-size="13">GOVERNANCE</text>
+    <text x="1036" y="576" fill="white" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="19" font-weight="650">citation courts</text>
+    <rect x="830" y="438" width="214" height="76" rx="8" fill="#071D18" stroke="#34D399" stroke-opacity="0.7"/>
+    <text x="856" y="468" fill="#A7F3D0" font-family="Cascadia Mono, Consolas, monospace" font-size="13">WALLET</text>
+    <text x="856" y="494" fill="white" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="19" font-weight="650">royalty escrow</text>
+  </g>
+  <rect x="80" y="670" width="1280" height="74" rx="8" fill="white" fill-opacity="0.035" stroke="white" stroke-opacity="0.12"/>
+  <text x="112" y="715" fill="#E5E7EB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24">Reputation became the dominant collateral layer. Human-compatible pricing collapsed under machine latency competition.</text>
+  <defs>
+    <linearGradient id="wash" x1="0" y1="0" x2="1440" y2="820" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#083344" stop-opacity="0.35"/>
+      <stop offset="0.45" stop-color="#020617" stop-opacity="0"/>
+      <stop offset="0.7" stop-color="#14532D" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#881337" stop-opacity="0.28"/>
+    </linearGradient>
+  </defs>
+</svg>

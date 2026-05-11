@@ -1,0 +1,38 @@
+{
+  "name": "agentic-economy-observatory",
+  "version": "0.1.0",
+  "description": "Interfaces for exploring the emerging machine economy.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vishnugovind10/agentic-economy-observatory.git"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint"
+  },
+  "dependencies": {
+    "@xyflow/react": "^12.10.2",
+    "clsx": "^2.1.1",
+    "framer-motion": "^12.38.0",
+    "lucide-react": "^1.14.0",
+    "next": "16.2.6",
+    "ollama": "^0.6.3",
+    "react": "^19.2.6",
+    "react-dom": "^19.2.6",
+    "zod": "^4.4.3",
+    "zod-to-json-schema": "^3.25.2"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "16.2.6",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  }
+}
