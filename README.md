@@ -84,7 +84,7 @@ DEFAULT_OLLAMA_MODEL=qwen3:8b
 
 ## Deployment
 
-The app is Vercel-ready, but Vercel cannot reach `localhost:11434` on your laptop. For hosted deployment, set `OLLAMA_BASE_URL` to a reachable Ollama server you control.
+The app is Vercel-ready. For hosted deployment, set `OLLAMA_BASE_URL` to a reachable Ollama server you control.
 
 ```bash
 npm run build
