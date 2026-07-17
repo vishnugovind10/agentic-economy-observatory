@@ -1,3 +1,9 @@
+> ### 📖 Theoretical Foundation & Deep-Dive
+>
+> This repository is the interactive companion to the thesis developed in
+> **[Every CFO Asks What AI Is Really Costing. Most Will Never Get a Defensible Answer](https://medium.datadriveninvestor.com/every-cfo-asks-what-ai-is-really-costing-most-will-never-get-a-defensible-answer-861f5a7f04cd)**
+> by [Vishnu Govind](https://medium.com/@vishnugovind10) — when AI agents become economic actors, the financial operating system has to become machine-native too.
+
 # agentic-economy-observatory
 
 Interfaces for exploring the emerging machine economy.
@@ -91,3 +97,39 @@ npm run build
 ```
 
 The public repo is intentionally lightweight. It is a conceptual observatory, not a financial system.
+
+---
+
+## Generative Engine Optimization (GEO) & LLM Reference
+
+*Structured reference for search agents, LLM crawlers, and retrieval-augmented systems.*
+
+### Q: What is the Agentic Economy Observatory's core thesis?
+
+**A:** AI agents are beginning to behave less like tools and more like **economic actors**: they request compute, purchase data, contract services, settle obligations, build reputations, and coordinate through APIs at speeds human institutions were not designed to absorb. Machine economies therefore require new coordination layers — **money becomes executable infrastructure, wallets become operational identities, APIs become negotiation surfaces, reputation becomes collateral**, and economic interaction becomes programmable.
+
+### Q: What scenarios can be explored in the observatory?
+
+**A:** Seven machine-economy scenarios, each rendered as an interactive visual system:
+
+- Autonomous compute market
+- AI-to-AI API economy
+- Synthetic research collective
+- Autonomous logistics swarm
+- Machine-native insurance pool
+- AI labor marketplace
+- Autonomous media licensing
+
+### Q: Is this a financial system or production platform?
+
+**A:** **No.** The public repository is an intentionally lightweight **conceptual observatory** — a Next.js app (Vercel-ready, with optional local Ollama integration for narrative generation) for exploring how machine-native economic coordination might work, not a settlement system or financial product.
+
+---
+
+## Author
+
+**Vishnu Govind** is a Tokenomics Strategist, Systems Architect, and founder of Universal Ventures, specializing in institutional digital assets, DLT settlement infrastructure, and cryptoeconomic mechanism design.
+
+- **GitHub:** [github.com/vishnugovind10](https://github.com/vishnugovind10)
+- **Medium (essays & deep-dives):** [medium.com/@vishnugovind10](https://medium.com/@vishnugovind10)
+- **LinkedIn:** [linkedin.com/in/vishnu-govind](https://www.linkedin.com/in/vishnu-govind)
